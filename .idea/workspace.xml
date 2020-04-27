@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31c720f4-d7f0-447f-b05c-9de6efb8e8b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1adNwUD8WbPlxM85BkP9M7dnHKw" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\hellowebdriver\src\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/git/hellowebdriver/src/resources/testng.xml">
+    <configuration name="C:/git/hellowebdriver/src/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hellowebdriver" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailWebDriver.loginToEmail (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hellowebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailWebDriver" />
+      <option name="METHOD_NAME" value="loginToEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailWebDriver.loginToEmail (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hellowebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailWebDriver" />
+      <option name="METHOD_NAME" value="loginToEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailWebDriver.loginToEmail (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hellowebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailWebDriver" />
+      <option name="METHOD_NAME" value="loginToEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailWebDriver.loginToEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hellowebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailWebDriver" />
+      <option name="METHOD_NAME" value="loginToEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/git/hellowebdriver/src/resources/testng.xml" />
+        <item itemvalue="TestNG.EmailWebDriver.loginToEmail" />
+        <item itemvalue="TestNG.EmailWebDriver.loginToEmail (1)" />
+        <item itemvalue="TestNG.EmailWebDriver.loginToEmail (5)" />
+        <item itemvalue="TestNG.EmailWebDriver.loginToEmail (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31c720f4-d7f0-447f-b05c-9de6efb8e8b4" name="Default Changelist" comment="" />
+      <created>1587061749297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587061749297</updated>
+    </task>
+    <servers />
+  </component>
+</project>
